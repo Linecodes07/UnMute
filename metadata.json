@@ -1,0 +1,7 @@
+{
+  "name": "Copy of UnMute",
+  "description": "An anonymous reporting platform for students to safely report ragging incidents, featuring AI-powered analysis, transcription, and support resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
